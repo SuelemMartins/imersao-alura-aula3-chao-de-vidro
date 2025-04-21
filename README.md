@@ -24,6 +24,6 @@ O objetivo é criar uma experiência envolvente e emocionante para os jogadores,
 🔗 **Link do repositório**:  
 [GitHub - Imersão Alura - Aula 3 - Chão de Vidro](https://github.com/SuelemMartins/imersao-alura-aula3-chao-de-vidro.git)
 
-![Imagem do Projeto](./imagen-projeto-3.JPG)
+![Imagem do Projeto](./imagem-projeto-3.JPG)
 
 
